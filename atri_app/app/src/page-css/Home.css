@@ -1,0 +1,134 @@
+.p-Home.Flex5 {
+display: flex;
+justify-content: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.p-Home.Flex1 {
+display: flex;
+justify-content: space-between;
+padding-left: ;
+padding-right: ;
+width: 80%;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Flex2 {
+display: flex;
+}
+.p-Home.Flex3 {
+display: flex;
+column-gap: 30px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 20px;
+}
+.p-Home.Flex4 {
+display: flex;
+column-gap: 10px;
+justify-content: flex-start;
+}
+.p-Home.Div3 {
+;
+}
+.p-Home.Flex9 {
+display: flex;
+width: ;
+padding-top: 70px;
+padding-bottom: ;
+justify-content: center;
+}
+.p-Home.Flex6 {
+display: flex;
+justify-content: flex-start;
+row-gap: ;
+width: 80%;
+flex-direction: row;
+}
+.p-Home.Flex7 {
+display: flex;
+flex-direction: column;
+row-gap: ;
+}
+.p-Home.Flex10 {
+display: flex;
+column-gap: 35px;
+padding-top: 20px;
+}
+.p-Home.Flex8 {
+display: flex;
+}
+.p-Home.TextBox1 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 37px;
+}
+.p-Home.Image7 {
+width: 6px;
+height: 6px;
+align-self: flex-end;
+padding-bottom: 8px;
+}
+.p-Home.TextBox4 {
+;
+}
+.p-Home.TextBox5 {
+;
+}
+.p-Home.TextBox6 {
+;
+}
+.p-Home.TextBox7 {
+;
+}
+.p-Home.TextBox8 {
+;
+}
+.p-Home.Image5 {
+width: 25px;
+height: 20px;
+}
+.p-Home.TextBox9 {
+font-family: IBM Plex Sans;
+font-weight: 200;
+font-size: 20px;
+padding-top: 15px;
+}
+.p-Home.TextBox10 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 6em;
+}
+.p-Home.TextBox11 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 6em;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #000000;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 25px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #0a0a0a;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-Home.TextBox12 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 25px;
+}
+.p-Home.Image6 {
+width: 465px;
+height: ;
+}
